@@ -1,3 +1,3 @@
-module github.com/DmitryKrom/greeting
+module greeting
 
 go 1.16
