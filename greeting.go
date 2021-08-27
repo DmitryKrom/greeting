@@ -27,6 +27,7 @@ func sentenceToChoose() string {
 		"%v, hi! how you doing?",
 		"I am glad to see you, %v!",
 		"Hello, %v, nice to meet you!",
+		"Ich begrüße dich ganz herzlich, %v!",
 	}
 	sentence := sentences[rand.Intn(len(sentences))]
 	return sentence
